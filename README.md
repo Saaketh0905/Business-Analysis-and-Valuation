@@ -37,7 +37,5 @@ This project performs DCF valuation and relative valuation analysis for Dabur In
 
 ## Technologies
 
-Python libraries used: numpy, pandas, matplotlib, seaborn, yfinance, scipy, statsmodels [file:1]
-
-## File Structure
+Python libraries used: numpy, pandas, matplotlib, seaborn, yfinance, scipy, statsmodels
 
